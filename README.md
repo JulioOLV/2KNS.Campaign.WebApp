@@ -1,12 +1,12 @@
 ![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)![Styledcomponents](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
 
-# 2KNS.Character.API
+# 2KNS.Campaign.WebApp
 
-Essa API é responsável por prover as informações necessárias ao frontend e processar as solicitações dos usuários em relação ao gerenciamento de personagens.
+Web application responsável por prover ao usuário uma interface para utilização da aplicação de administração de campanhas.
 
 ## Como subir o projeto localmente?
 
-- Clone o projeto: `git clone https://github.com/JulioOLV/2KNS.Character.API.git`
+- Clone o projeto: `git clone https://github.com/JulioOLV/2KNS.Campaign.WebApp.git`
 - Entre no projeto e abra o terminal
 - Para subir localmente:
   - Execute `npm install` ou `yarn install` para instalar as depêndencias do projeto
